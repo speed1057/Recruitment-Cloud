@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    box-sizing: border-box;
+}
+h1{
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+}
+h4{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+li{
+    text-decoration: none;
+}
+.tab-content .panel{
+    display: none;
+}
+ .header{
+   font-family: 'Quicksand', sans-serif; 
+}
+.tab-content .panel .active{
+    display: block;
+}
+
+.row,  
+.col-lg-10,
+.tab-content,
+.tab-pane{
+ height: 100%;
+ padding: 15px 0px 5px 0px;
+ margin: 0;
+}
+
+.row,  
+.col-md-2,
+.nav{
+    height: 100%;
+}
+
+
+.tab-pane{
+    margin-top: -40px;
+}
+
+.myFrame{
+    margin-left: 30%;
+}
+
+.col-lg-1{
+    float:right;
+    margin-right:0px;
+}
+

@@ -1,0 +1,38 @@
+.header{
+   font-family: 'Quicksand', sans-serif; 
+}
+h1{
+    color: black;
+}
+h4{
+    text-align: center;
+}
+
+
+a,
+a:hover{
+    text-decoration: none;
+    color: black;
+ }
+
+
+.home-content{
+    float:left;
+    width:100%;
+    background: linear-gradient(whitesmoke,whitesmoke);
+    overflow-y: auto;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.home-login-btn{
+    float: right;
+    margin-right: 10px;
+}
+
+
+
+
